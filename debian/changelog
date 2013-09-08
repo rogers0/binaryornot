@@ -1,4 +1,4 @@
-binaryornot (0.1.1-1) UNRELEASED; urgency=low
+binaryornot (0.1.1-1) unstable; urgency=low
 
   * Initial release. Closes: #722156.
 
