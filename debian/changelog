@@ -1,5 +1,5 @@
 binaryornot (0.1.1-1) UNRELEASED; urgency=low
 
-  * Initial release. Closes: #720024.
+  * Initial release. Closes: #722156.
 
  -- Vincent Bernat <bernat@debian.org>  Sun, 08 Sep 2013 16:41:15 +0200

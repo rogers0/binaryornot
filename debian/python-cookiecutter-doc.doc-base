@@ -1,9 +1,0 @@
-Document: cookiecutter
-Title: Cookiecutter Documentation
-Author: Audrey Roy
-Abstract: This document describes Cookiecutter
-Section: Programming/Python
-
-Format: HTML
-Index: /usr/share/doc/python-cookiecutter-doc/html/index.html
-Files: /usr/share/doc/python-cookiecutter-doc/html/*.html
