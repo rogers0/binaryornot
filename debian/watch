@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/binaryornot-$1.tar.gz/ \
+  https://github.com/audreyr/binaryornot/releases .*/v?(\d\S*)\.tar\.gz
