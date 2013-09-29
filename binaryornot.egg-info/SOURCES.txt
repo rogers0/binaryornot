@@ -7,6 +7,7 @@ README.rst
 setup.py
 binaryornot/__init__.py
 binaryornot/check.py
+binaryornot/helpers.py
 binaryornot.egg-info/PKG-INFO
 binaryornot.egg-info/SOURCES.txt
 binaryornot.egg-info/dependency_links.txt
