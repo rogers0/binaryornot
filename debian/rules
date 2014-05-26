@@ -6,6 +6,3 @@ export PYBUILD_DESTDIR_python3=debian/python3-binaryornot/
 
 %:
 	dh $@ --with python2,python3 --buildsystem=pybuild
-
-override_dh_auto_test:
-	# Unfortunately, currently no tests
