@@ -1,8 +1,7 @@
 #!/usr/bin/make -f
 # -*- mode: makefile; coding: utf-8 -*-
 
-export PYBUILD_DESTDIR_python2=debian/python-binaryornot/
-export PYBUILD_DESTDIR_python3=debian/python3-binaryornot/
+export PYBUILD_NAME = binaryornot
 
 %:
 	dh $@ --with python2,python3 --buildsystem=pybuild

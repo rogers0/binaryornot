@@ -5,8 +5,10 @@ Maintainer: Vincent Bernat <bernat@debian.org>
 Uploaders: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
 Build-Depends: debhelper (>= 7.0.50~), dh-python,
                python-all, python3-all,
-               python-setuptools, python3-setuptools
-Standards-Version: 3.9.5
+               python-setuptools, python3-setuptools,
+               python-chardet, python3-chardet,
+               python-hypothesis, python3-hypothesis
+Standards-Version: 3.9.6
 Homepage: https://github.com/audreyr/binaryornot
 Vcs-Svn: svn://anonscm.debian.org/python-modules/packages/binaryornot/trunk/
 Vcs-Browser: http://anonscm.debian.org/viewvc/python-modules/packages/binaryornot/trunk/
