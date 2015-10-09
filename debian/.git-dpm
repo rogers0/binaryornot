@@ -1,11 +1,11 @@
 # see git-dpm(1) from git-dpm package
-baf2a2ef86f330971ba13af326efe265d51d8c51
-baf2a2ef86f330971ba13af326efe265d51d8c51
-baf2a2ef86f330971ba13af326efe265d51d8c51
-baf2a2ef86f330971ba13af326efe265d51d8c51
-binaryornot_0.3.0.orig.tar.gz
-e0ad87b38a95225b9f1b636f174a62cc6ae898eb
-218206
+85c8dab392bee2f68f8cf95d17efcc52b289099f
+85c8dab392bee2f68f8cf95d17efcc52b289099f
+85c8dab392bee2f68f8cf95d17efcc52b289099f
+85c8dab392bee2f68f8cf95d17efcc52b289099f
+binaryornot_0.4.0.orig.tar.gz
+1e0c2f6fc351bd271b4dc3d12d3942703c7d4b31
+371339
 debianTag="debian/%e%v"
 patchedTag="patched/%e%v"
 upstreamTag="upstream/%e%u"
