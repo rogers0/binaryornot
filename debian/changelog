@@ -1,11 +1,11 @@
-binaryornot (0.4.0-1) UNRELEASED; urgency=medium
+binaryornot (0.4.0-1) unstable; urgency=medium
 
   * New upstream release.
   * Bump Standards-Version.
   * Use PYBUILD_NAME in d/rules.
   * Add missing Build-Depends on python-{chardet,hypothesis}.
 
- -- Vincent Bernat <bernat@debian.org>  Tue, 15 Sep 2015 09:08:03 +0200
+ -- Vincent Bernat <bernat@debian.org>  Sun, 15 Nov 2015 23:05:18 +0100
 
 binaryornot (0.3.0-1) unstable; urgency=medium
 
