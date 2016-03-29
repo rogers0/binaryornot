@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 7.0.50~), dh-python,
                python-hypothesis, python3-hypothesis
 Standards-Version: 3.9.6
 Homepage: https://github.com/audreyr/binaryornot
-Vcs-Git: git://anonscm.debian.org/python-modules/packages/binaryornot.git
+Vcs-Git: https://anonscm.debian.org/git/python-modules/packages/binaryornot.git
 Vcs-Browser: https://anonscm.debian.org/cgit/python-modules/packages/binaryornot.git
 
 Package: python-binaryornot
