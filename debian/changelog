@@ -1,4 +1,6 @@
-binaryornot (0.4.0+dfsg-0.1) UNRELEASED; urgency=medium
+binaryornot (0.4.0+dfsg-0.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
 
   [ Ondřej Nový ]
   * Fixed VCS URL (https)
@@ -8,7 +10,7 @@ binaryornot (0.4.0+dfsg-0.1) UNRELEASED; urgency=medium
   * Add patch to remove tests regarding to non-free image files.
     (Closes: #854851)
 
- -- Ondřej Nový <novy@ondrej.org>  Tue, 29 Mar 2016 21:23:36 +0200
+ -- Roger Shimizu <rogershimizu@gmail.com>  Wed, 15 Feb 2017 21:07:15 +0900
 
 binaryornot (0.4.0-1) unstable; urgency=medium
 
