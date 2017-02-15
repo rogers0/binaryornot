@@ -1,0 +1,26 @@
+From: Roger Shimizu <rogershimizu@gmail.com>
+Date: Wed, 15 Feb 2017 21:14:30 +0900
+Subject: Remove tests regarding to non-free image lena
+
+See Bug #854851
+---
+ tests/test_check.py | 6 ------
+ 1 file changed, 6 deletions(-)
+
+diff --git a/tests/test_check.py b/tests/test_check.py
+index 338119e..fbe32d1 100755
+--- a/tests/test_check.py
++++ b/tests/test_check.py
+@@ -49,12 +49,6 @@ class TestIsBinary(unittest.TestCase):
+     def test_png(self):
+         self.assertTrue(is_binary('tests/files/logo.png'))
+ 
+-    def test_gif(self):
+-        self.assertTrue(is_binary('tests/files/lena.gif'))
+-
+-    def test_jpg(self):
+-        self.assertTrue(is_binary('tests/files/lena.jpg'))
+-
+     def test_tiff(self):
+         self.assertTrue(is_binary('tests/files/palette-1c-8b.tiff'))
+ 

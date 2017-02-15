@@ -1,6 +1,12 @@
-binaryornot (0.4.0-2) UNRELEASED; urgency=medium
+binaryornot (0.4.0+dfsg-0.1) UNRELEASED; urgency=medium
 
+  [ Ondřej Nový ]
   * Fixed VCS URL (https)
+
+  [ Roger Shimizu ]
+  * Remove non-free image files, and repack as +dfsg.
+  * Add patch to remove tests regarding to non-free image files.
+    (Closes: #854851)
 
  -- Ondřej Nový <novy@ondrej.org>  Tue, 29 Mar 2016 21:23:36 +0200
 
